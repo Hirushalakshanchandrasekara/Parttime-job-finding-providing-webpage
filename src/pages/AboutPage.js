@@ -11,7 +11,7 @@ const AboutPage = () => {
         <img src={aboutImg} alt="nice desk" />
         <article>
           <div className="title">
-            <h2>Our Story</h2>
+            <h2>About us</h2>
           </div>
           <p>
             Part-time jobs are great ways to gain professional experience and
